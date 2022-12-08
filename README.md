@@ -24,8 +24,8 @@
 
 <h3 align="left" style="margin-top:50px">Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvain-chu&show_icons=true&locale=en" alt="churlet-chu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvain-chu&show_icons=true&locale=en" alt="sylvain-chu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=churlet-chu&" alt="churlet-chu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-chu&" alt="sylvain-chu" /></p>
 
-<a href="https://github.com/churlet-chu/github-readme-stats"><img alt="Sylvain Churlet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=churlet-chu&langs_count=8&count_private=true&&layout=compact" /></a>
+<a href="https://github.com/sylvain-chu/github-readme-stats"><img alt="Sylvain Churlet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-chu&langs_count=8&count_private=true&&layout=compact" /></a>
